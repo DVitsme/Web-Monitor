@@ -30,6 +30,7 @@ I will get back on this later
 6. The API allows a signed-in user to edit or delete any of their checks.
    - considering limiting number of checks
 7. In the background, perform all the checks at the appropriate times, and send alerts to the users when a check changes its state from up to down, or visa versa.
+8. Im going to try to not use Express to test myself.
 
 ## Things I am unsure of
 
